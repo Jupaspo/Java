@@ -1,0 +1,10 @@
+
+*.jar
+*.xml
+*.properties
+*.json
+*.class
+*.mf
+*.txt
+osa01-Osa01_23.Maara/.tmcparams
+osa07-Osa07_04.GameOfLife/.tmcparams
